@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is a short bio about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is George Martin or Jorge Martinez, preferably the former. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My hobbies and interests:
 
-What else do you need?
+- I have an interest in electronics and software/ or "something to do with computers" as some like to put it
+- I enjoy sports, mostly football(soccer)... actually only football
+- I enjoy the occasional video game 
+- I like going to the gym and eating "clean" 
 
-### my history
+### my cv
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- My undergraduate degree is in Software and Electronics
+- I'm currently doing my PhD in Self Healing Repair Chips
