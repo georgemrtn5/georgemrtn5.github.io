@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Winter is coming!
+title: My First post: Winter is coming!
 ---
 As of today it's the 23rd of November. This means that Winter is coming... 
 
 
-![alt text](/img/post1/start.jpg "ILLUMINATI")
+![/img/gorilla.png]
 
 
 It's soon to be December, and of course this means we are ending 2015 and coming into a new year in January. This time of the year always reminds me of 3 things:
